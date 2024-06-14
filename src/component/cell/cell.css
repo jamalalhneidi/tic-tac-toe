@@ -1,0 +1,8 @@
+.grid-item {
+    border: 1px solid #ccc;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
